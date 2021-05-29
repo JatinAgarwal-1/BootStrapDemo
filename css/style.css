@@ -1,0 +1,18 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.carousel-item img {
+  height: 85vh;
+}
+.about-img {
+  min-width: 100%;
+  max-height: 280px;
+}
+
+.offer {
+  background: #a6dcef;
+}
