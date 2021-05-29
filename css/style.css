@@ -4,7 +4,9 @@
   box-sizing: border-box;
   font-family: "IBM Plex Sans", sans-serif;
 }
-
+.bg-gradient2 {
+  background-image: linear-gradient(red, yellow);
+}
 .carousel-item img {
   height: 85vh;
 }
@@ -15,4 +17,7 @@
 
 .offer {
   background: #a6dcef;
+}
+footer p {
+  margin-bottom: 0;
 }
